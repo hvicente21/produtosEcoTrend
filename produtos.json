@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "imagem": "https://raw.githubusercontent.com/hvicente21/produtosEcoTrend/refs/heads/main/produtosEcoTrend/img/jeans.jpeg",
+        "produto": "Calça Jeans Delavê (EX - JEANS)",
+        "descrição":"A Calça Jenas (EX - JEANS) incentiva o reaproveitamento daquela calça jeans esquecida no seu guarda-roupa, transformando-a em uma nova peça, exclusiva e pronta para um próximo consumidor.Tudo isso na intenção de estender o ciclo de vida de seus jeans e contribuir para um consumo consciente.A reutilização do seu jeans irá economizar ainda mais recursos do que um processo de reciclagem normal e a ideia é diminuir o consumo de água, energia elétrica e produtos químicos no meio ambiente.",
+        "valor":"R$ 220,00"
+    },
+    {
+        "id": 2,
+        "imagem": "https://raw.githubusercontent.com/hvicente21/produtosEcoTrend/refs/heads/main/produtosEcoTrend/img/jaqueta.jpeg",
+        "produto": "Jaqueta Sports Azul Marinho",
+        "descrição":"Jaqueta Sports Azul Marinho, fechamento em zíper, dispõe de três bolsos frontais e viés listrado nas mangas. Confeccionada com fibras recicladas, ela oferece conforto e durabilidade, enquanto minimiza o impacto no planeta. Versátil e fácil de combinar, é a jaqueta ideal para quem busca estilo e um futuro mais verde.",
+        "valor":"R$ 180,00"
+    },
+    {
+        "id": 3,
+        "imagem": "https://raw.githubusercontent.com/hvicente21/produtosEcoTrend/refs/heads/main/produtosEcoTrend/img/polo.jpeg",
+        "produto": "Camiseta Polo Azul Marinho",
+        "descrição":"Camiseta Polo  Azul Marinho, Manga Curta. Estrutura em algodão orgânico . Possui um trabalhado no ponto palito na parte fontal e nas costas ponto liso, dispõe de 3 botões frontais.",
+        "valor":"R$ 120,00"
+    },
+    {
+        "id": 4,
+        "imagem": "https://raw.githubusercontent.com/hvicente21/produtosEcoTrend/refs/heads/main/produtosEcoTrend/img/bota.jpeg",
+        "produto": "Bota Moc Toe Suede Bege",
+        "descrição":" Confeccionada em Material Sintético 100% livre de Crueldade Animal. É uma bota rústica e com traços bem fortes. Inspirado na tendência Britânica de botas para escoteiros e lenhadores presentes nos anos 1960/70.",
+        "valor":"R$ 370,00"
+    },
+    {
+        "id": 5,
+        "imagem": "https://raw.githubusercontent.com/hvicente21/produtosEcoTrend/refs/heads/main/produtosEcoTrend/img/gorro.jpeg",
+        "produto": "Gorro Navy",
+        "descrição":"Gorro Navy, de qualidade da K55. Confortável na cabeça, esta peça é confeccionada em 100% acrílico, sendo perfeita para espantar o frio. Seu formato se adequa perfeitamente em sua cabeça, sobrando um pouco para fazer uma segunda dobra.",
+        "valor":"R$ 65,90"
+    },
+    {
+        "id": 6,
+        "imagem": "https://raw.githubusercontent.com/hvicente21/produtosEcoTrend/refs/heads/main/produtosEcoTrend/img/cinto.jpeg",
+        "produto": "Cinto vegano Branco Slim",
+        "descrição":"Cinto vegano Branco Slim, fabricado em Couro de Abacaxi, feito a partir das folhas da fruta, que seriam descartadas, com fivela em metal e furado em toda a sua extensão, permitindo usá-lo tanto na altura da cintura até o quadril. Esse cinto traz consigo a atitude, cria um visual único e com muita personalidade.",
+        "valor":"R$ 90,00"
+    }
+]
